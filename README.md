@@ -2,6 +2,7 @@
 Códigos em python sobre o assunto da certificação CFG Anbima.
 
 Conteúdo:
+## Métodos Quantitativos
 - Estatística
   - Medidas de posição central
   - Medidas de Retorno

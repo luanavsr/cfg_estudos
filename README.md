@@ -1,5 +1,5 @@
 # cfg_estudos
-Códigos em python sobre o assunto da certificação CFG Anbima.
+Códigos em python sobre os tópicos abordados na certificação CFG Anbima.
 
 Conteúdo:
 ## Métodos Quantitativos
